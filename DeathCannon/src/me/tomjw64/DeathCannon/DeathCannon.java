@@ -59,7 +59,7 @@ public class DeathCannon extends JavaPlugin{
 					}
 					else
 					{
-						for(Player p:world.getPlayers())
+						for(Player p:w.getPlayers())
 						{
 							p.sendMessage(RED+"Players killed today:");
 							for(String x:pListener.getDeathList())
