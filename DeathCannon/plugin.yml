@@ -1,6 +1,6 @@
 author: tomjw64
 name: DeathCannon
 description: Makes an explosion when a player dies
-version: 1.2.1
+version: 1.2.2
 main: me.tomjw64.DeathCannon.DeathCannon
 commands:
